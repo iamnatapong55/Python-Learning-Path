@@ -1,7 +1,3 @@
-# Name: Natapong Sornprom
-# Date: May 31, 2020
-# Honour Statement: “I have not given or received any unauthorized assistance on this assignment”
-# Link:
 
 import random
 
